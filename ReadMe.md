@@ -4,4 +4,3 @@ Update branch with master branch
 <br>
 <br>While on the feature branch
 > git pull origin master --rebase
-<br> git fetch origin
